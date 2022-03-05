@@ -30,7 +30,7 @@ This repository contains a grammar for the JAML data language for the Atom edito
 
 ## Changelog :black_nib:
 
-### Version 0.1.0: Black Bird
+### Version 1.0.0
 
 - upload to GitHub
 - polished entity names
