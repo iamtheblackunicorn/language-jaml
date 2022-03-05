@@ -1,0 +1,17 @@
+scopeName: 'source.jaml'
+name: 'JAML'
+fileTypes: [ 'jaml', 'jml' ]
+limitLineLength: false
+
+patterns: [
+  {
+    constant: 'Comments.'
+    name: 'comment.language.jaml'
+    match: '//.*'
+  },
+  {
+    variable: 'Strings for key-value pairs.'
+    name: 'string.language.jaml'
+    match: "\'.*\'"
+  }
+]

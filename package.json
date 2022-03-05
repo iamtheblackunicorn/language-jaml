@@ -1,0 +1,17 @@
+{
+  "name": "language-jaml",
+  "version": "0.1.0",
+  "description": "A grammar for the JAML data language.",
+  "repository": "https://github.com/iamtheblackunicorn/language-jaml",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "bugs": "https://github.com/iamtheblackunicorn/language-jaml/issues",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
